@@ -1,2 +1,2 @@
-https://Borukas1.github.io/rsschool-cv/cv
+https://Borukas1.github.io/rsschool-cv/
 # rsschool-cv
