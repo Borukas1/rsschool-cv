@@ -4,12 +4,14 @@
 email: borukas1@gmail.com
 ***
 # About me
+
 ***
 # Skills
 + JS
 + HTML\CSS
 + Adobe Photoshop
 + Adobe Premier Pro
++ Adobe Illustrator
 ***
 # Code examples
 ```
