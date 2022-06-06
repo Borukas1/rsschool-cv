@@ -2,6 +2,7 @@
 ***
 # Contacts
 email: borukas1@gmail.com
+
 ***
 # About me
 
@@ -12,6 +13,7 @@ email: borukas1@gmail.com
 + Adobe Photoshop
 + Adobe Premier Pro
 + Adobe Illustrator
+
 ***
 # Code examples
 ```
@@ -20,9 +22,11 @@ function booleanToString(b){
   else {return "false";}
 }
 ```
+
 ***
 # Education
 In 2020 I graduated from the Belarusian Russian University with a degree in Automated systems for processing information
+
 ***
 # English level
 My English Level is B1
